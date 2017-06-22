@@ -13,4 +13,13 @@ public class CalculatorTest {
         int actualResult = calculator.add(100, 200);
         Assert.assertEquals(300, actualResult);
     }
+
+    @Test
+    public void multiplyTest(){
+        System.out.println(" TESTING ADDITION");
+        int actualResult = calculator.add(100, 200);
+        Assert.assertEquals(300, actualResult);
+    }
+
+
 }
