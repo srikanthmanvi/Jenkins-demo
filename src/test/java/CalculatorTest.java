@@ -9,6 +9,7 @@ public class CalculatorTest {
     Calculator calculator = new Calculator();
     @Test
     public void addTest(){
+        System.out.println(" TESTING ADDITION");
         int actualResult = calculator.add(100, 200);
         Assert.assertEquals(300, actualResult);
     }
