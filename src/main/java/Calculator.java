@@ -13,4 +13,8 @@ public class Calculator {
         System.out.println(String.format("Result of adding %d and %d is %d",a,b, result));
         return result;
     }
+
+    public int multiply(int a, int b){
+        return a*b;
+    }
 }
