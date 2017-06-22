@@ -5,12 +5,12 @@ public class Calculator {
 
     public static void main(String args[]) {
         Calculator calculator = new Calculator();
-        calculator.add(1 ,2);
+        calculator.add(400, 600);
     }
 
     public int add(int a, int b) {
         int result = a +b;
-        System.out.println(" Adding "+a+ ", "+b+ " = "+result);
+        System.out.println(String.format("Result of adding %d and %d is %d",a,b, result));
         return result;
     }
 }
