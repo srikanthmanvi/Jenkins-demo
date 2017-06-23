@@ -21,5 +21,9 @@ public class CalculatorTest {
         Assert.assertEquals(300, actualResult);
     }
 
+    @Test
+    public void sampleTest(){
+        Assert.assertEquals(1,1);
+    }
 
 }
