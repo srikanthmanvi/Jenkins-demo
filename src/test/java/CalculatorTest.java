@@ -23,6 +23,7 @@ public class CalculatorTest {
 
     @Test
     public void sampleTest(){
+        System.out.println(" NEW TEST");
         Assert.assertEquals(1,1);
     }
 
