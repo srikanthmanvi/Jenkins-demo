@@ -8,6 +8,7 @@ import org.junit.Test;
 public class CalculatorTest {
 
     Calculator calculator = new Calculator();
+
     @Test
     public void addTest(){
         System.out.println(" TESTING ADDITION");
@@ -27,5 +28,12 @@ public class CalculatorTest {
         System.out.println(" NEW TEST");
         Assert.assertEquals(1,1);
     }
+
+    @Test
+    public void sampleTest2(){
+        System.out.println(" NEW TEST2");
+        Assert.assertEquals(1,1);
+    }
+
 
 }
