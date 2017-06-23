@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/smanvi-pivotal/Jenkins-demo.svg?branch=master)](https://travis-ci.org/smanvi-pivotal/Jenkins-demo)
+[![Build Status](https://https://travis-ci.org/srikanthmanvi/Jenkins-demo.svg?branch=master)](https://https://travis-ci.org/srikanthmanvi/Jenkins-demo)
 
 
 # Jenkins-demo
