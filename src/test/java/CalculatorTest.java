@@ -32,7 +32,7 @@ public class CalculatorTest {
     @Test
     public void sampleTest2(){
         System.out.println(" NEW TEST2");
-        Assert.assertEquals(1,1);
+        Assert.assertEquals(1,3);
     }
 
 
